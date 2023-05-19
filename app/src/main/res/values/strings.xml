@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">MarvelApp</string>
+    <string name="no_results">NO RESULTS FOUND</string>
+    <string name="retry">RETRY</string>
+    <string name="search">Search Hero</string>
+    <string name="more_info">More Info</string>
+    <string name="events">EVENTS</string>
+    <string name="comics">COMICS</string>
+    <string name="no_series">There\'s no series of this hero</string>
+    <string name="series">SERIES</string>
+    <string name="no_comics">There\'s no comics of this hero</string>
+    <string name="no_events">There\'s no events of this hero</string>
+    <string name="error_retrieving_events">Error retrieving events</string>
+    <string name="error_retrieving_comics">Error retrieving comics</string>
+    <string name="error_retrieving_series">Error retrieving series</string>
+    <string name="clear_text">Clear text</string>
+</resources>

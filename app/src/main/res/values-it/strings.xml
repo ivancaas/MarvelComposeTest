@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MarvelApp</string>
+    <string name="no_results">NESSUN RISULTATO TROVATO</string>
+    <string name="retry">RIPROVA</string>
+    <string name="search">Cerca Eroe</string>
+    <string name="more_info">Ulteriori informazioni</string>
+    <string name="events">EVENTI</string>
+    <string name="comics">COMICS</string>
+    <string name="no_series">Non ci sono serie di questo eroe</string>
+    <string name="series">SERIE</string>
+    <string name="no_comics">Non ci sono fumetti di questo eroe</string>
+    <string name="no_events">Non ci sono eventi di questo eroe</string>
+    <string name="error_retrieving_events">Errore durante il recupero degli eventi</string>
+    <string name="error_retrieving_comics">Errore durante il recupero dei fumetti</string>
+    <string name="error_retrieving_series">Errore durante il recupero delle serie</string>
+    <string name="clear_text">Clear text</string>
+</resources>
